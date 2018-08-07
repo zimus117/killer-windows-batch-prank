@@ -9,10 +9,10 @@ cls
 taskkill /f /im virtualbox.exe
 cls
 
-echo                      :PB@Bk:
-echo                  ,jB@@B@B@B@BBL.
-echo               7G@B@B@BMMMMMB@B@B@Nr
-echo           :kB@B@@@MMOMOMOMOMMMM@B@B@B1,
+echo                   _____________   
+echo    ______________|_____________|______________              
+echo   /XXXXXXXXXXXXXXXXyou_deadXXXXXXXXXXXXXXXXXXX\  
+echo  |_____________________________________________|         
 echo       :5@B@B@B@BBMMOMOMOMOMOMOMM@@@B@B@BBu.
 echo    70@@@B@B@B@BXBBOMOMOMOMOMOMMBMPB@B@B@B@B@Nr
 echo  G@@@BJ iB@B@@  OBMOMOMOMOMOMOM@2  B@B@B. EB@B@S
